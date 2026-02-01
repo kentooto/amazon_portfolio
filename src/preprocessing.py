@@ -8,7 +8,9 @@ BASE_DIR = Path(__file__).resolve().parents[1]
 RAW_DIR = BASE_DIR / "data" / "raw"
 PROCESSED_DIR = BASE_DIR / "data" / "processed"
 
-RAW_FILE = RAW_DIR / "amazon.csv"
+# RAW_FILE = RAW_DIR / "amazon.csv"
+# サンプルCSVに切り替え
+RAW_FILE = RAW_DIR / "sample_amazon.csv" 
 OUTPUT_FILE = PROCESSED_DIR / "product_summary.csv"
 
 PROCESSED_DIR.mkdir(exist_ok=True)
