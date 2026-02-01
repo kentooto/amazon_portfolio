@@ -1,0 +1,11 @@
+product_id,category,discounted_price,rating,rating_count
+P001,Books,499,4.5,120
+P002,Books,599,4,50
+P003,Electronics,1999,4.8,1500
+P004,Electronics,1299,4.2,800
+P005,Toys,299,3.8,20
+P006,Toys,399,4.1,350
+P007,Books,699,4.6,1100
+P008,Electronics,899,4,200
+P009,Toys,199,3.5,10
+P010,Books,399,4.3,600
